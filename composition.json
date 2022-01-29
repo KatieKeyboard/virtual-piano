@@ -1,0 +1,155 @@
+[
+	{ "note": 0, "key": "2c", "wait": 800 },
+	{ "note": 1, "key": "2c", "wait": 200 },
+	{ "note": 2, "key": "2b", "wait": 200 },
+
+	{ "note": 3, "key": "2c", "wait": 800 },
+	{ "note": 4, "key": "2c", "wait": 200 },
+	{ "note": 5, "key": "2b", "wait": 200 },
+
+	{ "note": 6, "key": "2c", "wait": 500 },
+	{ "note": 7, "key": "2d", "wait": 200 },
+	{ "note": 8, "key": "2d", "wait": 500 },
+	{ "note": 9, "key": "2f", "wait": 200 },
+
+	{ "note": 10, "key": "2f", "wait": 800 },
+	{ "note": 11, "key": "2e", "wait": 200 },
+	{ "note": 12, "key": "2c", "wait": 200 },
+
+	{ "note": 13, "key": "2d", "wait": 500 },
+	{ "note": 14, "key": "2b", "wait": 200 },
+	{ "note": 15, "key": "1g", "wait": 500 },
+	{ "note": 16, "key": "2e", "wait": 200 },
+	{ "note": 17, "key": "2c", "wait": 200 },
+
+	{ "note": 18, "key": "2d", "wait": 800 },
+	{ "note": 19, "key": "2g", "wait": 200 },
+	{ "note": 20, "key": "2c", "wait": 200 },
+
+	{ "note": 21, "key": "2f", "wait": 500 },
+	{ "note": 22, "key": "2e", "wait": 200 },
+	{ "note": 23, "key": "2e", "wait": 500 },
+	{ "note": 24, "key": "2d", "wait": 200 },
+
+	{ "note": 25, "key": "2d", "wait": 800 },
+	{ "note": 26, "key": "2c", "wait": 200 },
+	{ "note": 27, "key": "2b", "wait": 200 },
+
+	{ "note": 28, "key": "2c", "wait": 800 },
+	{ "note": 29, "key": "2c", "wait": 200 },
+	{ "note": 30, "key": "2b", "wait": 200 },
+
+	{ "note": 31, "key": "2c", "wait": 800 },
+	{ "note": 32, "key": "2c", "wait": 200 },
+	{ "note": 33, "key": "2b", "wait": 200 },
+
+	{ "note": 34, "key": "2c", "wait": 500 },
+	{ "note": 35, "key": "2d", "wait": 200 },
+	{ "note": 36, "key": "2d", "wait": 500 },
+	{ "note": 37, "key": "2f", "wait": 200 },
+
+	{ "note": 38, "key": "2f", "wait": 800 },
+	{ "note": 39, "key": "2e", "wait": 200 },
+	{ "note": 40, "key": "2c", "wait": 200 },
+
+	{ "note": 41, "key": "2d", "wait": 500 },
+	{ "note": 42, "key": "2b", "wait": 200 },
+	{ "note": 43, "key": "1g", "wait": 500 },
+	{ "note": 44, "key": "2e", "wait": 200 },
+	{ "note": 45, "key": "2c", "wait": 200 },
+
+	{ "note": 46, "key": "2d", "wait": 800 },
+	{ "note": 47, "key": "2g", "wait": 200 },
+	{ "note": 48, "key": "2c", "wait": 200 },
+
+	{ "note": 49, "key": "2f", "wait": 500 },
+	{ "note": 50, "key": "2e", "wait": 200 },
+	{ "note": 51, "key": "2e", "wait": 500 },
+	{ "note": 52, "key": "2d", "wait": 200 },
+
+	{ "note": 53, "key": "2d", "wait": 800 },
+	{ "note": 54, "key": "3c", "wait": 200 },
+	{ "note": 55, "key": "3b", "wait": 200 },
+
+	{ "note": 56, "key": "3c", "wait": 800 },
+	{ "note": 57, "key": "3c", "wait": 200 },
+	{ "note": 58, "key": "3b", "wait": 200 },
+
+	{ "note": 59, "key": "3c", "wait": 800 },
+	{ "note": 60, "key": "3c", "wait": 200 },
+	{ "note": 61, "key": "3b", "wait": 200 },
+
+	{ "note": 62, "key": "3c", "wait": 500 },
+	{ "note": 63, "key": "2g", "wait": 500 },
+	{ "note": 64, "key": "3g", "wait": 500 },
+	{ "note": 65, "key": "3f", "wait": 200 },
+	{ "note": 66, "key": "3e", "wait": 200 },
+
+	{ "note": 67, "key": "3f", "wait": 800 },
+	{ "note": 68, "key": "3g", "wait": 200 },
+	{ "note": 69, "key": "3d", "wait": 200 },
+
+	{ "note": 70, "key": "3f", "wait": 500 },
+	{ "note": 71, "key": "3e", "wait": 200 },
+	{ "note": 72, "key": "3d", "wait": 500 },
+	{ "note": 73, "key": "3g", "wait": 200 },
+	{ "note": 74, "key": "3d", "wait": 200 },
+
+	{ "note": 75, "key": "3f", "wait": 800 },
+	{ "note": 76, "key": "3g", "wait": 200 },
+	{ "note": 77, "key": "3d", "wait": 200 },
+
+	{ "note": 78, "key": "3f", "wait": 500 },
+	{ "note": 79, "key": "3e", "wait": 200 },
+	{ "note": 80, "key": "3d", "wait": 500 },
+	{ "note": 81, "key": "3f", "wait": 200 },
+	{ "note": 82, "key": "4a", "wait": 200 },
+
+	{ "note": 83, "key": "4b", "wait": 800 },
+	{ "note": 84, "key": "4a", "wait": 200 },
+	{ "note": 85, "key": "4b", "wait": 200 },
+
+	{ "note": 86, "key": "4a", "wait": 500 },
+	{ "note": 87, "key": "3g", "wait": 500 },
+	{ "note": 88, "key": "3f", "wait": 500 },
+	{ "note": 89, "key": "4a", "wait": 200 },
+	{ "note": 90, "key": "4b", "wait": 200 },
+
+	{ "note": 91, "key": "4a", "wait": 500 },
+	{ "note": 92, "key": "3g", "wait": 500 },
+	{ "note": 93, "key": "3f", "wait": 500 },
+	{ "note": 94, "key": "4a", "wait": 200 },
+	{ "note": 95, "key": "4b", "wait": 200 },
+
+	{ "note": 96, "key": "4b", "wait": 200 },
+	{ "note": 97, "key": "4a", "wait": 500 },
+	{ "note": 98, "key": "3g", "wait": 500 },
+	{ "note": 99, "key": "3c", "wait": 500 },
+
+	{ "note": 100, "key": "4ais", "wait": 800 },
+	{ "note": 101, "key": "4a", "wait": 200 },
+	{ "note": 102, "key": "4b", "wait": 200 },
+
+	{ "note": 103, "key": "4a", "wait": 500 },
+	{ "note": 104, "key": "3g", "wait": 500 },
+	{ "note": 105, "key": "3f", "wait": 500 },
+	{ "note": 106, "key": "4a", "wait": 200 },
+	{ "note": 107, "key": "4b", "wait": 200 },
+
+	{ "note": 108, "key": "4a", "wait": 500 },
+	{ "note": 109, "key": "3g", "wait": 500 },
+	{ "note": 110, "key": "3f", "wait": 500 },
+	{ "note": 111, "key": "4a", "wait": 200 },
+	{ "note": 112, "key": "4b", "wait": 200 },
+
+	{ "note": 113, "key": "4b", "wait": 200 },
+	{ "note": 114, "key": "4a", "wait": 500 },
+	{ "note": 115, "key": "3g", "wait": 500 },
+	{ "note": 116, "key": "3c", "wait": 600 },
+
+	{ "note": 117, "key": "4a", "wait": 1000 },
+
+	{ "note": 118, "key": "4b", "wait": 1000 },
+
+	{ "note": 119, "key": "4a", "wait": 0 }
+]
